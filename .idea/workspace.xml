@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3dfc23bc-b2ba-4710-8111-40a0bd43377d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HamcrestMatchersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HamcrestMatchersTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,14 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HamcrestMatchersTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HamcrestMatchersTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestMatchersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="202">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#901#910#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TodoBusinessImplMockInjectMocksTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/business/TodoBusinessImplMockInjectMocksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="95" column="75" lean-forward="true" selection-start-line="95" selection-start-column="75" selection-end-line="95" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -63,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/main/java/business/Trial.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/HamcrestMatchersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/business/TodoBusinessImplMockInjectMocksTest.java" />
       </list>
     </option>
   </component>
@@ -120,6 +129,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mockitopractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mockitopractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,11 +156,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="business" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="business" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="business" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -158,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HamcrestMatchersTest.test">
+  <component name="RunManager" selected="JUnit.TodoBusinessImplMockInjectMocksTest">
     <configuration name="Trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="business.Trial" />
       <module name="mockitopractice" />
@@ -230,7 +247,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TodoBusinessImplMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TodoBusinessImplMockInjectMocksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mockitopractice" />
       <extension name="coverage">
         <pattern>
@@ -241,7 +258,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="business" />
-      <option name="MAIN_CLASS_NAME" value="business.TodoBusinessImplMockTest" />
+      <option name="MAIN_CLASS_NAME" value="business.TodoBusinessImplMockInjectMocksTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -293,18 +310,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ListTest" />
-      <item itemvalue="JUnit.TodoBusinessImplMockTest" />
       <item itemvalue="Application.Trial" />
       <item itemvalue="JUnit.HamcrestMatchersTest.test" />
       <item itemvalue="JUnit.HamcrestMatchersTest" />
+      <item itemvalue="JUnit.TodoBusinessImplMockInjectMocksTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TodoBusinessImplMockInjectMocksTest" />
         <item itemvalue="JUnit.HamcrestMatchersTest.test" />
         <item itemvalue="JUnit.HamcrestMatchersTest" />
         <item itemvalue="Application.Trial" />
         <item itemvalue="JUnit.ListTest" />
-        <item itemvalue="JUnit.TodoBusinessImplMockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -324,44 +341,44 @@
       <workItem from="1528889335284" duration="5467000" />
       <workItem from="1528962989593" duration="3580000" />
       <workItem from="1529130725772" duration="297000" />
-      <workItem from="1529132469522" duration="1535000" />
+      <workItem from="1529132469522" duration="2465000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ListTest - 2018.06.14 at 11h 39m 24s.xml">
-      <configuration name="ListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ListTest - 2018.06.14 at 11h 42m 48s.xml">
-      <configuration name="ListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 22m 09s.xml">
+    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 33m 04s.xml">
       <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestMatchersTest - 2018.06.16 at 10h 22m 16s.xml">
+    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 33m 43s.xml">
+      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 34m 20s.xml">
+      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HamcrestMatchersTest - 2018.06.16 at 10h 34m 30s.xml">
       <configuration name="HamcrestMatchersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 22m 31s.xml">
-      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 23m 14s.xml">
-      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 24m 49s.xml">
-      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 25m 51s.xml">
-      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HamcrestMatchersTest - 2018.06.16 at 10h 30m 26s.xml">
+    <history-entry file="HamcrestMatchersTest - 2018.06.16 at 10h 34m 47s.xml">
       <configuration name="HamcrestMatchersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 31m 07s.xml">
+    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 35m 06s.xml">
       <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HamcrestMatchersTest - 2018.06.16 at 10h 35m 19s.xml">
+      <configuration name="HamcrestMatchersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HamcrestMatchersTest_test - 2018.06.16 at 10h 35m 41s.xml">
+      <configuration name="HamcrestMatchersTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TodoBusinessImplMockInjectMocksTest - 2018.06.16 at 11h 08m 53s.xml">
+      <configuration name="TodoBusinessImplMockInjectMocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TodoBusinessImplMockInjectMocksTest - 2018.06.16 at 11h 12m 11s.xml">
+      <configuration name="TodoBusinessImplMockInjectMocksTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21059000" />
+    <option name="totallyTimeSpent" value="21989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -631,11 +648,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestMatchersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="202">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#901#910#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/business/TodoBusinessImplMockInjectMocksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="95" column="75" lean-forward="true" selection-start-line="95" selection-start-column="75" selection-end-line="95" selection-end-column="75" />
         </state>
       </provider>
     </entry>
